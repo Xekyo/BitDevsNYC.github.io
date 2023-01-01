@@ -69,4 +69,4 @@ meetup: #TODO
 
 
 ## Miscellaneous
-
+- [Luke Dashjr hacked to the tune of ~₿210](https://twitter.com/LukeDashjr/status/1609613748364509184)
